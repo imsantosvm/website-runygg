@@ -5,8 +5,8 @@ import { cn } from "@/lib/utils";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Machine Codes",
-  description: "Machine Codes",
+  title: "RunyGG - Battle Royale",
+  description: "Chegue ao topo da competição e enfrente os jogadores mais habilidosos no Battle Royale mais épico de todos os tempos!",
 };
 
 export default function RootLayout({

@@ -3,11 +3,6 @@ import { Hero } from './components/hero'
 import { HowToPlay } from './components/how-to-play'
 import { Footer } from './components/footer'
 
-export const metadata = {
-  title: "Machine Codes",
-  description: "Macchine Ccodes Description",
-};
-
 export default function Home() {
   return (
     <>
