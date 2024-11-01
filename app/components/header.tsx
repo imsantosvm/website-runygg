@@ -18,8 +18,8 @@ export function Header() {
       <nav className="hidden md:flex items-center gap-5">
         <div className="flex items-center font-medium text-xl text-white border-r border-white/20 pr-5">
           <a href="#" className="px-3 transition-colors text-lg uppercase flex items-center gap-1 text-primary">Início</a>
-          <a href="#" className="px-3 text-white/70 transition-colors text-lg uppercase flex items-center gap-1 hover:text-white">Ranking</a>
-          <a href="#" className="px-3 text-white/70 transition-colors text-lg uppercase flex items-center gap-1 hover:text-white">Loja</a>
+          <a href="/ranking" className="px-3 text-white/70 transition-colors text-lg uppercase flex items-center gap-1 hover:text-white">Ranking</a>
+          <a href="/loja" className="px-3 text-white/70 transition-colors text-lg uppercase flex items-center gap-1 hover:text-white">Loja</a>
         </div>
         {/* <Button variant="outline" className="bg-primary text-primary-foreground hover:bg-primary/90">
           <svg viewBox="0 0 640 512" className="w-6 h-6 mr-2">
