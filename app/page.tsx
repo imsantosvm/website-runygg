@@ -1,6 +1,5 @@
 import { Header } from './components/header'
 import { Hero } from './components/hero'
-import { Benefits } from './components/benefits'
 import { HowToPlay } from './components/how-to-play'
 import { Footer } from './components/footer'
 
@@ -16,7 +15,6 @@ export default function Home() {
         <Header />
         <main>
           <Hero />
-          {/* <Benefits /> */}
           <HowToPlay />
         </main>
         <Footer />

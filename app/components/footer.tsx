@@ -7,7 +7,6 @@ export function Footer() {
         <div className="flex items-center flex-col md:flex-row w-full gap-4">
           <div className="flex w-full md:w-1/4 justify-between px-4">
             <img
-              
               src="/logotipo.png"
               alt="Goat Royale Logo"
               className="h-6 opacity-70"

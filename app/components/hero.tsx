@@ -1,6 +1,3 @@
-import { Button } from "@/components/ui/button"
-import Link from "next/link"
-
 export function Hero() {
     return (
         <div className="h-screen bg-[url('https://goatroyale.com/static/media/landing-1.5b5305beb0d0f00a26a5.png')] bg-cover bg-center">
@@ -12,9 +9,7 @@ export function Hero() {
                     <p className="text-lg opacity-50 drop-shadow-sm">
                         Chegue ao topo da competição e enfrente os jogadores mais habilidosos no Battle Royale mais épico de todos os tempos!
                     </p>
-                  
                 </div>
-
             </div>
         </div>
     )
