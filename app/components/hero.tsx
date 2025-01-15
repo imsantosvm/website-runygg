@@ -8,7 +8,6 @@ export function Hero() {
                     </h1>
                     <p className="text-lg opacity-50 drop-shadow-sm">
                         Prepare-se para uma nova era de combates e desafios. Conecte-se, suba no ranking e domine a arena! Junte-se agora e mostre suas habilidades.
-
                     </p>
                 </div>
             </div>
